@@ -29,10 +29,6 @@ These bullets describe my contribution areas; they do not imply sole ownership o
 
 The related manuscript is **under review**. No publication venue, acceptance, benchmark outcome, or paper title is claimed here.
 
-## Related robotics experience
-
-At the **2026 World Humanoid Robot Games**, I served as **Team Lead / Technical Integration** for **超能逸仙队**, using **Unitree G1**. The team reached the **Top 16 in Street Dance** and placed **11th in Tai Chi** ([published results](https://robopodium.com/whrg-2026/wushu/taijiquan)). This competition experience is listed separately from the under-review HRI study.
-
 ## Public disclosure
 
 Unpublished research code, experimental materials, participant data, manuscript figures, detailed numerical results, and confidential collaboration details are intentionally omitted. This repository contains only a high-level public description; it is not a reproducibility package or a claim that the full research has been publicly released.
