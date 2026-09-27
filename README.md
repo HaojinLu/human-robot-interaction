@@ -2,33 +2,23 @@
 
 **Natural-Language-Driven Whole-Body Interaction with Unitree G1**
 
-This repository is a public overview of my work on human–robot interaction with a Unitree G1 humanoid robot. The related manuscript is under review. It is intentionally a project summary rather than a release of the research implementation or study materials.
+Research on natural-language interaction and whole-body motion with a physical Unitree G1 humanoid robot. The related manuscript is under review.
 
-## Research motivation
+## Motivation
 
-Natural language can make interaction with humanoid robots more accessible, but connecting a person's request to a physical, whole-body response requires careful system integration and real-robot evaluation. This work studies that interaction at a high level, with attention to how robot behavior is deployed and experienced in practice.
+For a humanoid robot to respond to language in a useful way, its motion must work reliably on the physical platform and feel coherent to the person interacting with it. This project studies that connection between interaction and robot behavior.
 
-## High-level overview
+## System overview
 
-The project brings natural-language-driven interaction and whole-body robot behavior together on a physical humanoid platform. My work focused on integrating the robot system, deploying whole-body motions, testing and debugging on the real robot, and supporting human–robot interaction evaluation. The unpublished system design and experimental details are not described here.
-
-## Robot platform
-
-The physical platform for this work is the **Unitree G1** humanoid robot. This page does not describe hardware modifications, control interfaces, or implementation details of the under-review work.
+The system connects natural-language interaction with whole-body motion execution on Unitree G1. My work covered the control pathway, motion deployment, physical testing, and human–robot interaction evaluation.
 
 ## My contributions
 
-- Humanoid robot system integration
-- Whole-body motion deployment
-- Real-robot testing and debugging
-- HRI user-study support and evaluation
-
-These bullets describe my contribution areas; they do not imply sole ownership of the broader research project or manuscript.
+- Developed and debugged the pathway from language-driven interaction to whole-body motion execution on the G1.
+- Deployed and tuned motions on the physical robot, investigating drift and execution failures during testing.
+- Led the HRI study design and evaluation, including questionnaire design and statistical analysis.
+- Prepared system and experiment figures for the manuscript.
 
 ## Research status
 
-The related manuscript is **under review**. No publication venue, acceptance, benchmark outcome, or paper title is claimed here.
-
-## Public disclosure
-
-Unpublished research code, experimental materials, participant data, manuscript figures, detailed numerical results, and confidential collaboration details are intentionally omitted. This repository contains only a high-level public description; it is not a reproducibility package or a claim that the full research has been publicly released.
+Manuscript under review. Research code, study materials, participant data, figures, and detailed results are not public.
