@@ -10,14 +10,14 @@ For a humanoid robot to respond to language in a useful way, its motion must wor
 
 ## System overview
 
-The system connects natural-language interaction with whole-body motion execution on Unitree G1. My work covered the control pathway, motion deployment, physical testing, and human–robot interaction evaluation.
+The project combines natural-language interaction with whole-body motion on Unitree G1. My work included connecting SONIC and BONES-SEED to the robot workflow, testing motions on the physical robot, and supporting HRI evaluation.
 
 ## My contributions
 
-- Developed and debugged the pathway from language-driven interaction to whole-body motion execution on the G1.
-- Deployed and tuned motions on the physical robot, investigating drift and execution failures during testing.
-- Designed the HRI evaluation questionnaire and conducted statistical analysis for the user study.
-- Prepared system and experiment figures for the manuscript.
+- Integrated SONIC and BONES-SEED with the Unitree G1 motion workflow and debugged their operation on the robot.
+- Deployed whole-body motions and debugged physical execution on the G1.
+- Provided experimental data for the study; designed the HRI evaluation questionnaire and conducted statistical analysis.
+- Created manuscript figures with Inkscape.
 
 ## Research status
 
