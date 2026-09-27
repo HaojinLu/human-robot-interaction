@@ -16,7 +16,7 @@ The system connects natural-language interaction with whole-body motion executio
 
 - Developed and debugged the pathway from language-driven interaction to whole-body motion execution on the G1.
 - Deployed and tuned motions on the physical robot, investigating drift and execution failures during testing.
-- Led the HRI study design and evaluation, including questionnaire design and statistical analysis.
+- Designed the HRI evaluation questionnaire and conducted statistical analysis for the user study.
 - Prepared system and experiment figures for the manuscript.
 
 ## Research status
