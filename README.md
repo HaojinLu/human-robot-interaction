@@ -16,7 +16,7 @@ The project combines natural-language interaction with whole-body motion on Unit
 
 - Integrated SONIC and BONES-SEED with the Unitree G1 motion workflow and debugged their operation on the robot.
 - Deployed whole-body motions and debugged physical execution on the G1.
-- Provided experimental data for the study; designed the HRI evaluation questionnaire and conducted statistical analysis.
+- Provided experimental data for the study; designed the HRI evaluation questionnaire.
 - Created manuscript figures with Inkscape.
 
 ## Research status
